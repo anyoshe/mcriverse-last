@@ -9,7 +9,7 @@ header {
     font-family: 'Exo 2'sans-serif;
     padding: 0.5em;
     border-spacing: 0.5mm;
-  }
+  };
   body {width: 60vw;}
   
     @media (max-width: 600px) {
@@ -22,8 +22,8 @@ header {
     Flex-direction: row;
     align-self: flex-end;
     justify-content: space-around;
+  };
 
-  }
   .video {
       flex-direction: column;
   }
